@@ -19,7 +19,7 @@ public class MathVector
          hence why the vector components would be private. 
         */
         
-        public int dimensionVector;
+        private int dimensionVector;
         
         //However, the components should be private. 
         private double [] vectorComponents;
